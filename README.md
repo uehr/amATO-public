@@ -13,5 +13,6 @@
 - とにかく開発速度を優先
     - Herokuにさくっと配置したいかも → Heroku docker run?
     - モノシリックな構成で
+    - Infrastructure as code → Terraform with Heroku
 - GitHub ActionsでCI/CD
 - Googleアカウント連携のみ
