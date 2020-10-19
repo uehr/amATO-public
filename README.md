@@ -16,3 +16,10 @@
     - Infrastructure as code → Terraform with Heroku
 - GitHub ActionsでCI/CD
 - Googleアカウント連携のみ
+
+### アーキテクチャ
+![amATO-architecture](https://user-images.githubusercontent.com/26696733/96468667-51e7a880-1267-11eb-96b2-125cd5a0dea7.png)
+
+その他外部サービス
+- Datadog
+- Google Analytics
