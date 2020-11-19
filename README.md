@@ -2,9 +2,9 @@
 ## プレゼンテーションのもう一つの選択肢
 
 ### 構想
+- [こちらの](https://github.com/uehr/amato)をコアモジュールとして使って、プレゼン資料の編集や公開機能を提供
 - Markdown x CSSでリッチかつお手軽にプレゼンテーション資料を作りたい
     - [Google製品ページ](https://store.google.com/jp/product/pixel_5)のようなリッチさを目指す
-- [こちらの](https://github.com/uehr/amato)をコアモジュールとして使う
 - ZennのようにGitHub連携など
 - S3にデータ保存
 - url限定共有が可能
